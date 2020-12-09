@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/abhishri.github.io/static/js/main.52e34003.chunk.js",
+    "main.js.map": "/abhishri.github.io/static/js/main.52e34003.chunk.js.map",
+    "runtime-main.js": "/abhishri.github.io/static/js/runtime-main.b5947ef3.js",
+    "runtime-main.js.map": "/abhishri.github.io/static/js/runtime-main.b5947ef3.js.map",
+    "static/js/2.f4229f8b.chunk.js": "/abhishri.github.io/static/js/2.f4229f8b.chunk.js",
+    "static/js/2.f4229f8b.chunk.js.map": "/abhishri.github.io/static/js/2.f4229f8b.chunk.js.map",
+    "index.html": "/abhishri.github.io/index.html",
+    "static/js/2.f4229f8b.chunk.js.LICENSE.txt": "/abhishri.github.io/static/js/2.f4229f8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5947ef3.js",
+    "static/js/2.f4229f8b.chunk.js",
+    "static/js/main.52e34003.chunk.js"
+  ]
+}
